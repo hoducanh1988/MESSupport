@@ -1,0 +1,149 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check mac input...a4f4c221cbc2
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Connecting wifi to mesh...
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...Get list of access points
+...............1.thuonghv_5G
+...............EW_21cbc2
+...............VNPTWifi
+...............Mesh TTCN
+...............PEP
+...............KLOPP
+...............GW240_5G_0B2CE8
+...............TTCN_205
+...............ManhPH-HM-office
+...............GW240_2.4G_012340
+...............PLDTHOMEFIBR5G99900
+...............PLDTHOMEFIBR99900
+...............GW240_5G_0B2C30
+...............GW240_2.4G_0B2C30
+...............GW240_5G_0B2C18
+...............GW040_2.4G_150520
+...............GW040_5G_150520
+...............GW040_1DAADF
+...............DESKTOP-1GSRABN 9390
+...............GW040_1D54F6
+...............1_2.4G040HV2
+...............R4G22N_7E07F8
+...............GW240_5G_012340
+...............VNPT_AP0
+...............GW240_5G_0B2D98
+...............TP-Link_2.4GHz_73F564
+...............Comtrend
+...............GW240_2.4G_0B2B28
+...............huong_test
+...............VNPT_AP1
+...............EW_21845e
+...............thanhtn
+...............Test_SG
+...............TP-Link_5GHz_73F565
+...............2_Telecom_206
+...............GW240_5G_0B2B28
+...............PEP_TV
+...............3chan5g
+...............1_5G040HV2
+...............MyTV-Test-5
+...............MyTV-Test-2
+...............1.thuonghv_2.4G
+...............GW020_010002
+...............1_Telecom_206
+...............3chan
+...............GW240_9FD4D0
+...Connecting to AP wifi
+...3/300
+...Connected
+...4/300
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Login ssh to mesh 192.168.88.1,root,vnpt ...
+
+
+...[1], Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check firmware version...
+
+
+...[1], Get firmware version from mesh :
+
+BusyBox v1.19.4 (2020-03-13 09:43:38 +07) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+o         o o         o ooooooooo  ooooooooo ooooooooo               o
+o        o  oo        o o        o     o         o                   o
+o       o   o o       o o        o     o         o                   o
+o      o    o  o      o o        o     o         o                   o
+o     o     o   o     o ooooooooo      o         o       oo     oo   o
+o    o      o    o    o o              o         o      o  o   o  o  oooooo
+o   o       o     o   o o              o         o     o    o o      o     o
+o  o        o      o  o o              o         o     oooooo o      o     o
+o o         o       o o o              o         o     o      o      o     o
+oo          o        oo o              o         o      o  o   o  o  o     o
+o           o         o o              o         o       oo     oo   o     o
+
+
+root@VNPT:~# 
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12X000F0003
+root@VNPT:~# 
+root@VNPT:~# 
+...[1], Firmware version in setting :
+......EW12_02RTM_RC02
+...[1], Compare firmware version :
+......Result = FAIL
+
+
+...[2], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12X000F0003
+root@VNPT:~# 
+root@VNPT:~# 
+...[2], Firmware version in setting :
+......EW12_02RTM_RC02
+...[2], Compare firmware version :
+......Result = FAIL
+
+
+...[3], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12X000F0003
+root@VNPT:~# 
+root@VNPT:~# 
+...[3], Firmware version in setting :
+......EW12_02RTM_RC02
+...[3], Compare firmware version :
+......Result = FAIL
+
+
+...[4], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12X000F0003
+root@VNPT:~# 
+root@VNPT:~# 
+...[4], Firmware version in setting :
+......EW12_02RTM_RC02
+...[4], Compare firmware version :
+......Result = FAIL
+
+
+...[5], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12X000F0003
+root@VNPT:~# 
+root@VNPT:~# 
+...[5], Firmware version in setting :
+......EW12_02RTM_RC02
+...[5], Compare firmware version :
+......Result = FAIL
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Total result: Failed
+Total time: 00:00:06

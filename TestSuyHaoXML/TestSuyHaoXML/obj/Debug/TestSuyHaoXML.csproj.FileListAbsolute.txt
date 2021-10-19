@@ -1,0 +1,84 @@
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojResolveAssemblyReference.cache
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\NationalInstruments.Common.dll
+C:\Users\LEHAIYEN\Desktop\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojResolveAssemblyReference.cache
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+C:\Users\LEHAIYEN\Desktop\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+C:\Users\LEHAIYEN\Desktop\detkop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+C:\Users\LEHAIYEN\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojResolveAssemblyReference.cache
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+C:\Users\LELOIVIET\Desktop\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.Cache
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.CoreCompileInputs.cache
+E:\Desktop1\Team HTSX\Suyhao_A.Doan\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojResolveAssemblyReference.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojAssemblyReference.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.CopyComplete
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmMain.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmSetting.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmAbout.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXML\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmView.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe.config
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.exe
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\bin\Debug\TestSuyHaoXML.pdb
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csprojAssemblyReference.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Form1.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmAbout.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmMain.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmSetting.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.frmView.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.Properties.Resources.resources
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.GenerateResource.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.CoreCompileInputs.cache
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.csproj.CopyComplete
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.exe
+F:\DU_AN_VNPT\TEST_SUY_HAO\TestSuyHaoXMLOld\TestSuyHaoXML\obj\Debug\TestSuyHaoXML.pdb

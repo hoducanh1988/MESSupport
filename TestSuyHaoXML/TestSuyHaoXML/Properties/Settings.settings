@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestSuyHaoXML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="receivePort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RFIO1</Value>
+    </Setting>
+    <Setting Name="transmissionPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RFIO2</Value>
+    </Setting>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.1</Value>
+    </Setting>
+    <Setting Name="transmissionPower" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="instrumentStyle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anritsu_MT8870A</Value>
+    </Setting>
+    <Setting Name="masterFileLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectorAtenuator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="attenuatorTimes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PathList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Path>
+    <PathName>BH0_LP</PathName>
+    <PathID>0</PathID>
+    <AdditionalLoss>0</AdditionalLoss>
+    <Cal_Date>7/2/2013 3:55 PM</Cal_Date>
+    <TesterID>CNALLURI07291</TesterID>
+    <CalCable_PathName>NA</CalCable_PathName>
+    <UseCalCable>false</UseCalCable>
+    <DataList>
+      <Data>
+        <Frequency>2412</Frequency>
+        <Value>1.51</Value>
+        <Delta>0</Delta>
+      </Data>
+      <Data>
+        <Frequency>5180</Frequency>
+        <Value>2.99</Value>
+        <Delta>0</Delta>
+      </Data>
+    </DataList>
+  </Path>
+</PathList>

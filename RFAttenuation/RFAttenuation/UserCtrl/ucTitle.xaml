@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="RFAttenuation.UserCtrl.ucTitle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RFAttenuation.UserCtrl"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="1000" Background="#26A69A">
+
+    <Border BorderBrush="{StaticResource ColorBorder}" BorderThickness="0,0,0,0.5">
+        <Grid>
+            <WrapPanel Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label FontSize="20" FontWeight="Bold" Foreground="White" Content="{Binding Path=stationName, UpdateSourceTrigger=PropertyChanged}"/>
+                <Label FontSize="20" FontWeight="Bold" Foreground="White" Content="-"/>
+                <Label FontSize="20" FontWeight="Bold" Foreground="White" Content="{Binding Path=productName, UpdateSourceTrigger=PropertyChanged}"/>
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Right" VerticalAlignment="Center">
+                <WrapPanel.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="Background" Value="#26A69A"/>
+                        <Setter Property="BorderBrush" Value="White"/>
+                        <Setter Property="BorderThickness" Value="2"/>
+                        <Setter Property="CornerRadius" Value="5"/>
+                        <Setter Property="Width" Value="30"/>
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="Margin" Value="0,0,5,0"/>
+                        <EventSetter Event="MouseDown" Handler="Border_MouseDown"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Border.Background" Value="{StaticResource ColorMouseOver}" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </WrapPanel.Resources>
+
+                <Border Tag="minimize">
+                    <Grid>
+                        <Path Stroke="White" StrokeThickness="5" Data="M 5,15 L 22,15" />
+                    </Grid>
+                </Border>
+                <Border Tag="maximize">
+                    <Grid>
+                        <Path Stroke="White" StrokeThickness="3" Data="M 15,5 L5,5 5,22 22,22 22,10"/>
+                        <Path Stroke="White" StrokeThickness="3" Data="M 22,4 L14,13"/>
+                        <Path Stroke="White" StrokeThickness="3" Data="M 20,4 L24,7"/>
+                    </Grid>
+                </Border>
+                <Border Tag="close">
+                    <Grid>
+                        <Path Stroke="White" StrokeThickness="5" Data="M 5,5 L 20,20" />
+                        <Path Stroke="White" StrokeThickness="5" Data="M 5,20 L 20,5" />
+                    </Grid>
+                </Border>
+
+
+            </WrapPanel>
+        </Grid>
+    </Border>
+    
+</UserControl>

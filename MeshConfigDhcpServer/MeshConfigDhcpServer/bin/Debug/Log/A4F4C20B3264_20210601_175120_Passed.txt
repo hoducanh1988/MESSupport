@@ -1,0 +1,216 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check mac input...A4F4C20B3264
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Connecting wifi to mesh...
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...3/300
+...4/300
+...Get list of access points
+...............EW_0b3264
+...............VNPTWifi
+...............Mesh TTCN
+...............OK HELLO 203
+...............GW040-H_2.4G_Guest2
+...............GW040_1DAADF
+...............2_Telecom_206
+...............GW040-H_5G_Guest1
+...............GW040-H_5G_CAFE00
+...............Huong_1234567890123
+...............203_PEP_040H
+...............203203203
+...............GW040-H_5G_Guest_TU1
+...............GW040-H_5G_TU4
+...............box_5g
+...............Mesh_ONT_theo doi_HaNTV_03
+...............PEP_TV_020H
+...............GW240_5G_0B2FE0
+...............PEP_2
+...............IoT_wakeUp_5G
+...............GW040-H_5G_211204
+...............EW_218656
+...............ASUS_
+...............VNPT_2G_Gate
+...............VNPT_AP2G_Gateway
+...............GW040-H_2.4G_34B210
+...............ManhPH-HM-office
+...............IoT_wakeUp_2.4G
+...............GW040-H_2.4G_CAFE00
+...............GW240_2.4G_0B2FE0
+...............camera_b1_AISA-000133-RVRKK
+...............camera_b0_VNT-000033-YBBNX
+...............EW_217377
+...............BrcmAP0
+...............1_Telecom_206
+...............DIRECT-13-HP Laser 179fnw
+...Connecting to AP wifi
+...5/300
+...6/300
+...Connected
+...7/300
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Login ssh to mesh 192.168.88.1,root,vnpt ...
+
+
+...[1], Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check firmware version...
+
+
+...[1], Get firmware version from mesh :
+
+
+BusyBox v1.19.4 (2020-09-17 10:07:10 +07) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+o         o o         o ooooooooo  ooooooooo ooooooooo               o
+o        o  oo        o o        o     o         o                   o
+o       o   o o       o o        o     o         o                   o
+o      o    o  o      o o        o     o         o                   o
+o     o     o   o     o ooooooooo      o         o       oo     oo   o
+o    o      o    o    o o              o         o      o  o   o  o  oooooo
+o   o       o     o   o o              o         o     o    o o      o     o
+o  o        o      o  o o              o         o     oooooo o      o     o
+o o         o       o o o              o         o     o      o      o     o
+oo          o        oo o              o         o      o  o   o  o  o     o
+o           o         o o              o         o       oo     oo   o     o
+
+root@VNPT:~# 
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12XG000F0001
+root@VNPT:~# 
+root@VNPT:~# 
+...[1], Firmware version in setting :
+......EW12XG000F0001
+...[1], Compare firmware version :
+......Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Compare mac in mesh with mac inputted...
+
+
+...[1], Get mac ethernet from mesh :
+
+root@VNPT:~# cat /sys/class/net/eth0/address
+a4:f4:c2:0b:32:64
+root@VNPT:~# 
+root@VNPT:~# ......
+root@VNPT:~# cat /sys/class/net/eth0/address
+a4:f4:c2:0b:32:64
+root@VNPT:~# 
+root@VNPT:~# 
+...[1], Mac inputted :
+......A4F4C20B3264
+...[0], Compare mac ethernet :
+......Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Config mesh to dhcp server...
+uci set network.wan.ifname=eth0.4001
+uci: Invalid argument
+root@VNPT:~# 
+root@VNPT:~# uci set network.lan.ifname=eth0
+root@VNPT:~# 
+root@VNPT:~# uci set network.lan.ipaddr=192.168.1.101
+root@VNPT:~# 
+root@VNPT:~# uci commit network
+root@VNPT:~# 
+root@VNPT:~# uci set dhcp.lan.start=102
+root@VNPT:~# 
+root@VNPT:~# uci set dhcp.lan.limit=100
+root@VNPT:~# 
+root@VNPT:~# uci set dhcp.lan.leasetime=300
+root@VNPT:~# 
+root@VNPT:~# uci commit dhcp
+root@VNPT:~# 
+root@VNPT:~# 
++++++++++++++++++++++++++++++++++++++++++++++++
+Wait dhcp server restart config...30
+0..1..2..3..4..5..6..7..8..9..10..11..12..13..14..15..16..17..18..19..20..21..22..23..24..25..26..27..28..29..
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Connecting wifi to mesh...
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...3/300
+...4/300
+...Get list of access points
+...............EW_0b3264
+...............VNPTWifi
+...............Mesh TTCN
+...............OK HELLO 203
+...............GW040-H_5G_TU4
+...............GW040-H_2.4G_Guest1
+...............VNPT_MESH_T3
+...............KLOPP_TV_020H
+...............KLOPP_2
+...............GW040-H_5G_Guest_TU1
+...............VinaphoneWifi
+...............TP_LINK
+...............TGD-ANSV
+...............GW040-H_2.4G_915618
+...............GW020_0D6ED4
+...............ManhPH-HM-office
+...............box_2g
+...............Dich Vu Chung
+...............TTCN_205
+...............DEMO_SHOWROOM
+...............ASUS_
+...............GW040-H_2.4G
+...............203_KLOPP_040H
+...............203203
+...............GW040-H_2.4G_9BDCC0
+...............GW040-H_2.4G_211204
+...............GW040-H_2.4G_Guest2
+...............GW040_1DAADF
+...............2_Telecom_206
+...............GW040-H_5G_Guest1
+...............GW040-H_5G_CAFE00
+...............Huong_1234567890123
+...............203_PEP_040H
+...............203203203
+...............box_5g
+...............Mesh_ONT_theo doi_HaNTV_03
+...............PEP_TV_020H
+...............GW240_5G_0B2FE0
+...............PEP_2
+...............IoT_wakeUp_5G
+...............GW040-H_5G_211204
+...............EW_218656
+...............VNPT_2G_Gate
+...............VNPT_AP2G_Gateway
+...............GW040-H_2.4G_34B210
+...............IoT_wakeUp_2.4G
+...............GW040-H_2.4G_CAFE00
+...............GW240_2.4G_0B2FE0
+...............camera_b1_AISA-000133-RVRKK
+...............camera_b0_VNT-000033-YBBNX
+...............EW_217377
+...............BrcmAP0
+...............1_Telecom_206
+...............DIRECT-13-HP Laser 179fnw
+...Connecting to AP wifi
+...Connected
+...5/300
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Ping to dhcp server...192.168.1.101, timeout=30 sec
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.101: bytes=32 time=5ms TTL=64
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Total result: Passed
+Total time: 00:00:43

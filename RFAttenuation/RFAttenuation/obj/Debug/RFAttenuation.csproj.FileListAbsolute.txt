@@ -1,0 +1,86 @@
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.exe.config
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.exe
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.pdb
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\MainWindow.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\App.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation_MarkupCompile.cache
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation_MarkupCompile.lref
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\MainWindow.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.g.resources
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.Properties.Resources.resources
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.GenerateResource.cache
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.exe
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.pdb
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucTitle.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucTitle.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucMain.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucStatus.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucMain.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucStatus.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\App.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAbout.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAbout.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucHelp.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucHelp.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucLog.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucLog.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucSetting.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucSetting.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\NAudio.dll
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\UtilityPack.dll
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\bin\Debug\NAudio.xml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.CopyComplete
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucRunAll.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucRunAll.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\SubWind\InstructionWindow.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\SubWind\InstructionWindow.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucKit.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucKit.baml
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAtt.g.cs
+C:\Users\chien\source\repos\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAtt.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.exe.config
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.exe
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\RFAttenuation.pdb
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\NAudio.dll
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\UtilityPack.dll
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\bin\Debug\NAudio.xml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\MainWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\SubWind\InstructionWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAbout.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAtt.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucHelp.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucKit.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucLog.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucMain.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucRunAll.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucSetting.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucStatus.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucTitle.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\App.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation_MarkupCompile.cache
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation_MarkupCompile.lref
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\App.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\MainWindow.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\SubWind\InstructionWindow.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAbout.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucAtt.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucHelp.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucKit.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucLog.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucMain.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucRunAll.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucSetting.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucStatus.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\UserCtrl\ucTitle.baml
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.g.resources
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.Properties.Resources.resources
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.GenerateResource.cache
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.CoreCompileInputs.cache
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.csproj.CopyComplete
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.exe
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\RFAttenuation.pdb
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\SubWind\ResultWindow.g.cs
+G:\Backup_Tool_Test\repos\06. MESH\Support\RFAttenuation\RFAttenuation\obj\Debug\SubWind\ResultWindow.baml

@@ -1,0 +1,35 @@
+uci set network.lan.ifname=eth0
+
+
+
+BusyBox v1.19.4 (2021-07-26 09:12:14 +07) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+o         o o         o ooooooooo  ooooooooo ooooooooo               o
+o        o  oo        o o        o     o         o                   o
+o       o   o o       o o        o     o         o                   o
+o      o    o  o      o o        o     o         o                   o
+o     o     o   o     o ooooooooo      o         o       oo     oo   o
+o    o      o    o    o o              o         o      o  o   o  o  oooooo
+o   o       o     o   o o              o         o     o    o o      o     o
+o  o        o      o  o o              o         o     oooooo o      o     o
+o o         o       o o o              o         o     o      o      o     o
+oo          o        oo o              o         o      o  o   o  o  o     o
+o           o         o o              o         o       oo     oo   o     o
+
+root@VNPT:~# uci set network.lan.ifname=eth0
+root@VNPT:~# 
+root@VNPT:~# uci delete network.wan
+root@VNPT:~# 
+root@VNPT:~# uci commit network
+root@VNPT:~# 
+root@VNPT:~# rm /etc/init.d/checkmode
+root@VNPT:~# 
+root@VNPT:~# uci set repacd.repacd.Enable=0
+root@VNPT:~# 
+root@VNPT:~# uci commit repacd
+root@VNPT:~# 
+root@VNPT:~# uci get network.lan.ifname
+eth0
+root@VNPT:~# 
+root@VNPT:~# 

@@ -1,0 +1,7 @@
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\bin\Debug\callBackApplication.exe.config
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\bin\Debug\callBackApplication.exe
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\bin\Debug\callBackApplication.pdb
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\obj\Debug\callBackApplication.csprojAssemblyReference.cache
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\obj\Debug\callBackApplication.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\obj\Debug\callBackApplication.exe
+C:\Users\AnhHD\source\repos\callBackApplication\callBackApplication\obj\Debug\callBackApplication.pdb

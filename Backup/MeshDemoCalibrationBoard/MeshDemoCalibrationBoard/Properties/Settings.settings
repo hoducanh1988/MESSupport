@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MeshDemoCalibrationBoard.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="instrumentType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MT8870A</Value>
+    </Setting>
+    <Setting Name="GPIB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TCPIP0::192.168.3.2::inst0::INSTR</Value>
+    </Setting>
+    <Setting Name="powerTransmit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-20</Value>
+    </Setting>
+    <Setting Name="filePathloss" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Frequencies" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2412,2437,2484,5170,5190,5230,5250,5310,5330,5490,5510,5590,5610,5735,5755,5815,5835</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

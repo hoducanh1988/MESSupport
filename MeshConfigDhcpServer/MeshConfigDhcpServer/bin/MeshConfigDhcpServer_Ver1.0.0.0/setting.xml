@@ -1,0 +1,12 @@
+﻿<SettingInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <meshIP>192.168.88.1</meshIP>
+  <meshUser>root</meshUser>
+  <meshPass>vnpt</meshPass>
+  <meshFirmwareVersion>EW12_02RTM_RC02</meshFirmwareVersion>
+  <dhcpIP>192.168.99.101</dhcpIP>
+  <dhcpStart>102</dhcpStart>
+  <maxClient>100</maxClient>
+  <timeRefresh>300</timeRefresh>
+  <retryTime>5</retryTime>
+  <waitReboot>30</waitReboot>
+</SettingInformation>

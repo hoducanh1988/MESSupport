@@ -1,0 +1,65 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check mac input...A4F4C20A0B0C
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Connecting wifi to mesh...
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...System.ComponentModel.Win32Exception (0x80004005): The wireless local area network interface is powered down and doesn't support the requested operation
+   at SimpleWifi.Win32.WlanInterface.GetAvailableNetworkList(WlanGetAvailableNetworkFlags flags)
+   at SimpleWifi.Wifi.GetAccessPoints()
+   at MeshConfigDhcpServer.Function.Excute.wifi.Connect_Wifi(TestingInformation testing) in C:\Users\chien\source\repos\06. MESH\Support\MeshConfigDhcpServer\MeshConfigDhcpServer\Function\Excute\wifi.cs:line 75
+...3/300
+...Delay 1000 ms
+...Retry 1/5
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...System.ComponentModel.Win32Exception (0x80004005): The wireless local area network interface is powered down and doesn't support the requested operation
+   at SimpleWifi.Win32.WlanInterface.GetAvailableNetworkList(WlanGetAvailableNetworkFlags flags)
+   at SimpleWifi.Wifi.GetAccessPoints()
+   at MeshConfigDhcpServer.Function.Excute.wifi.Connect_Wifi(TestingInformation testing) in C:\Users\chien\source\repos\06. MESH\Support\MeshConfigDhcpServer\MeshConfigDhcpServer\Function\Excute\wifi.cs:line 75
+...3/300
+...Delay 1000 ms
+...Retry 2/5
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...System.ComponentModel.Win32Exception (0x80004005): The wireless local area network interface is powered down and doesn't support the requested operation
+   at SimpleWifi.Win32.WlanInterface.GetAvailableNetworkList(WlanGetAvailableNetworkFlags flags)
+   at SimpleWifi.Wifi.GetAccessPoints()
+   at MeshConfigDhcpServer.Function.Excute.wifi.Connect_Wifi(TestingInformation testing) in C:\Users\chien\source\repos\06. MESH\Support\MeshConfigDhcpServer\MeshConfigDhcpServer\Function\Excute\wifi.cs:line 75
+...3/300
+...Delay 1000 ms
+...Retry 3/5
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...System.ComponentModel.Win32Exception (0x80004005): The wireless local area network interface is powered down and doesn't support the requested operation
+   at SimpleWifi.Win32.WlanInterface.GetAvailableNetworkList(WlanGetAvailableNetworkFlags flags)
+   at SimpleWifi.Wifi.GetAccessPoints()
+   at MeshConfigDhcpServer.Function.Excute.wifi.Connect_Wifi(TestingInformation testing) in C:\Users\chien\source\repos\06. MESH\Support\MeshConfigDhcpServer\MeshConfigDhcpServer\Function\Excute\wifi.cs:line 75
+...3/300
+...Delay 1000 ms
+...Retry 4/5
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...System.ComponentModel.Win32Exception (0x80004005): The wireless local area network interface is powered down and doesn't support the requested operation
+   at SimpleWifi.Win32.WlanInterface.GetAvailableNetworkList(WlanGetAvailableNetworkFlags flags)
+   at SimpleWifi.Wifi.GetAccessPoints()
+   at MeshConfigDhcpServer.Function.Excute.wifi.Connect_Wifi(TestingInformation testing) in C:\Users\chien\source\repos\06. MESH\Support\MeshConfigDhcpServer\MeshConfigDhcpServer\Function\Excute\wifi.cs:line 75
+...3/300
+...Result = FAIL
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Total result: Failed
+Total time: 00:00:05

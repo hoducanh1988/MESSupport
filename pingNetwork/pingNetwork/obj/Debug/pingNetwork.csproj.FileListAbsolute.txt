@@ -1,0 +1,13 @@
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\bin\Debug\pingNetwork.exe.config
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\bin\Debug\pingNetwork.exe
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\bin\Debug\pingNetwork.pdb
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\obj\Debug\pingNetwork.csproj.CoreCompileInputs.cache
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\obj\Debug\pingNetwork.exe
+C:\Users\AnhHD\source\repos\pingNetwork\pingNetwork\obj\Debug\pingNetwork.pdb
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\bin\Debug\pingNetwork.exe.config
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\bin\Debug\pingNetwork.exe
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\bin\Debug\pingNetwork.pdb
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\obj\Debug\pingNetwork.csprojAssemblyReference.cache
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\obj\Debug\pingNetwork.csproj.CoreCompileInputs.cache
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\obj\Debug\pingNetwork.exe
+C:\Users\chien\source\repos\06. MESH\Support\pingNetwork\pingNetwork\obj\Debug\pingNetwork.pdb

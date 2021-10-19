@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="RFAttenuation.UserCtrl.ucStatus"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RFAttenuation.UserCtrl"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="1000" Background="#F6FAF2">
+
+    <Border Grid.Row="2" BorderBrush="{StaticResource ColorBorder}" BorderThickness="0,0.5,0,0">
+        <Grid>
+            <Label VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="13" FontWeight="SemiBold" Content="{Binding Path=appTitle, UpdateSourceTrigger=PropertyChanged}"/>
+        </Grid>
+    </Border>
+    
+    
+</UserControl>

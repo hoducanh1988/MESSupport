@@ -1,0 +1,65 @@
+
++++ Check mac format +++++++++++++++++++++++++++
+... Mac inputed = "A4F4C221CE5C"
+... Mac length [12] = Passed
+... Mac format [0-9,A-F] = Passed
+... Result: Passed
+... Time elapsed: 0 ms
+
++++ Find mesh wifi by ssid name ++++++++++++++++++++
+... SSID Name = EW_21ce5c
+... 
+EW_21ce5c
+1_Fixbroadband_Free
+VNPTWifi
+TP_LINK
+KLOPP_TV_020H
+KLOPP_2
+240M_Mesh_Tu
+PEP_TV_020H
+GW040-H_5G_cc
+box_5g
+GW040-H_5G_211204
+IoT_wakeUp_5G
+GW040-H_5G_9BDCC0
+PI5
+GW040-H_5G_CAFE00
+GW240-M_5G_191997
+GW240-H_5G_201008
+Mesh TTCN (dang_test)
+HuyNV-TPC
+VNPT_AP2G_Gateway
+GW040-H_2.4G_9BDCC0
+PI
+GW040-H_2.4aa
+DUCVAODI
+GW020_BEF8E1
+GW040_6909A8
+XSW250_2.4G
+GW020_A92852
+... 
+... Result: Passed
+... Time elapsed: 8 ms
+
++++ Connect mesh wifi  ++++++++++++++++++++++++++
+... SSID Name = EW_21ce5c
+... SSID Pass = EW@21ce5c
+
+... Result: Passed
+... Time elapsed: 3216 ms
+
++++ Login ssh to mesh  ++++++++++++++++++++++++++
+... Result: Passed
+... Time elapsed: 2338 ms
+
++++ Switch mesh to Lan mode  +++++++++++++++++++++
+... Result: Passed
+... Time elapsed: 857 ms
+
++++ Verify mesh mode after change  +++++++++++++++++
+... Result: Passed
+... Time elapsed: 306 ms
+
++++ Finish  ++++++++++++++++++++++++++++++++++
+... Total result: Passed
+... Time elapsed: 6807 ms

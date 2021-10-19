@@ -1,0 +1,153 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check mac input...a4f4c221ce5c
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Connecting wifi to mesh...
+...Disconnect wifi
+...1/300
+...2/300
+...Delay 250 ms
+...3/300
+...4/300
+...5/300
+...Get list of access points
+...............1.thuonghv_5G
+...............VNPTWifi
+...............Mesh TTCN
+...............PEP
+...............KLOPP
+...............ManhPH-HM-office
+...............GW240_5G_999900
+...............2_Telecom_206
+...............GW020_5G_012340
+...............GW240_5G_9AE138
+...............GW240_5G_012340
+...............3chan5g
+...............GW040_5G_150520
+...............ALCL-HGU5
+...............GW240_5G_092918
+...............Aizy_5G
+...............PEP_TV
+...............EW_2173da
+...............thanhtn
+...............VNPT_AP1
+...............IA_0b3437
+...............MyTV-Test-5
+...............EW_21ce5c
+...............huong_test
+...............GW020_0D6F4B
+...............MyTV-Test-2
+...............GW040_1B15B6
+...............KLOPP_TV
+...............GW240_2.4G_012340
+...............GW040_840F87
+...............Aizy_2G
+...............GW240_2.4G_999900
+...............GW240_9FD4D0
+...............VIETTEL-962A
+...............1_ttcn1
+...............ASUS_
+...............GW040_2.4G_150520
+...............1.thuonghv_2.4G
+...............3chan
+...............GW040_1DAADF
+...............1_Telecom_206
+...............nguyen trang
+...............TTCN_205
+...............GW040_6674DC
+...............GW040_07B339
+...............VNPT_AP0
+...Connecting to AP wifi
+...6/300
+...7/300
+...Connected
+...8/300
+...Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Login ssh to mesh 192.168.88.1,root,vnpt ...
+
+
+...[1], Result = PASS
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Check firmware version...
+
+
+...[1], Get firmware version from mesh :
+
+
+BusyBox v1.19.4 (2019-08-05 11:55:07 +07) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+o         o o         o ooooooooo  ooooooooo ooooooooo               o
+o        o  oo        o o        o     o         o                   o
+o       o   o o       o o        o     o         o                   o
+o      o    o  o      o o        o     o         o                   o
+o     o     o   o     o ooooooooo      o         o       oo     oo   o
+o    o      o    o    o o              o         o      o  o   o  o  oooooo
+o   o       o     o   o o              o         o     o    o o      o     o
+o  o        o      o  o o              o         o     oooooo o      o     o
+o o         o       o o o              o         o     o      o      o     o
+oo          o        oo o              o         o      o  o   o  o  o     o
+o           o         o o              o         o       oo     oo   o     o
+
+root@VNPT:~# 
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12_02RTM
+root@VNPT:~# 
+root@VNPT:~# 
+...[1], Firmware version in setting :
+......EW12_02RTM_RC02
+...[1], Compare firmware version :
+......Result = FAIL
+
+
+...[2], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12_02RTM
+root@VNPT:~# 
+root@VNPT:~# 
+...[2], Firmware version in setting :
+......EW12_02RTM_RC02
+...[2], Compare firmware version :
+......Result = FAIL
+
+
+...[3], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12_02RTM
+root@VNPT:~# 
+root@VNPT:~# 
+...[3], Firmware version in setting :
+......EW12_02RTM_RC02
+...[3], Compare firmware version :
+......Result = FAIL
+
+
+...[4], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12_02RTM
+root@VNPT:~# 
+root@VNPT:~# 
+...[4], Firmware version in setting :
+......EW12_02RTM_RC02
+...[4], Compare firmware version :
+......Result = FAIL
+
+
+...[5], Get firmware version from mesh :
+root@VNPT:~# cat /etc/fw_info
+Firmware Version: EW12_02RTM
+root@VNPT:~# 
+root@VNPT:~# 
+...[5], Firmware version in setting :
+......EW12_02RTM_RC02
+...[5], Compare firmware version :
+......Result = FAIL
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Total result: Failed
+Total time: 00:00:07
